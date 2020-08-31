@@ -4,7 +4,7 @@ Jupyter notebook contains following content:
 * Data Structures
 * Reading and Writing Files
 * Indexing and Selecting Data
-* Making MAps
+* Making Maps
 * Managing Projections
 * Geometric Manipulation
 * Set Operations with Overlay
